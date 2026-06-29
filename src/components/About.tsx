@@ -54,8 +54,8 @@ export default function About() {
             {/* Action buttons matching Screen 2 */}
             <div className="flex gap-3 mb-8 w-full max-w-sm sm:max-w-none">
               <a
-                href="/Shivam Resume.pdf"
-                download="Shivam Resume.pdf"
+                href="/Shivam Indore Resume.pdf"
+                download="Shivam Indore Resume.pdf"
                 className="flex-1 inline-flex items-center justify-center px-6 py-3.5 rounded-xl font-mono text-sm font-semibold accent-gradient-bg text-black no-underline transition-all duration-300 hover:shadow-[0_8px_30px_rgba(208,96,80,0.35)] hover:-translate-y-0.5 text-center cursor-pointer"
               >
                 Download CV
